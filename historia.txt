@@ -1,1 +1,2 @@
-Esta es la historia
+Esta es la historia del primer archivo del repositorio.
+Tengo 45 años
